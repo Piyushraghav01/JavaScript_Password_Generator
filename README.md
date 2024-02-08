@@ -1,1 +1,1 @@
-# JavaScript_Password_Generator
+# JavaScript_Password_Generator_Basic project .
